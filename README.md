@@ -20,7 +20,7 @@ The project follows clean OOP principles, utilizes a custom Singleton backend fo
 
 ## 🛠️ Tech Stack & Architecture
 
-* **Language:** C++17 / C++20
+* **Language:** C++
 * **Framework:** Qt 6 (Widgets)
 * **IDE:** Microsoft Visual Studio
 * **Design Pattern:** Singleton (Core Engine), Object-Oriented Programming (OOP)
@@ -33,9 +33,4 @@ The project follows clean OOP principles, utilizes a custom Singleton backend fo
 ### Prerequisites
 * Windows 10 / 11
 * Visual Studio (with *Desktop development with C++* and *Qt Visual Studio Tools* extension installed)
-* Qt Framework (v6.x recommended)
-
-### Installation & Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/SecureVault.git](https://github.com/YOUR_USERNAME/SecureVault.git)
+* Qt Framework
